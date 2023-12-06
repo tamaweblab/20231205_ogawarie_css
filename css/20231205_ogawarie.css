@@ -36,7 +36,7 @@ a {
 }
 
 .box1 {
-    width: 50%;
+    width: 45%;
     height: 350px;
     background-image: url(../firstview.jpeg);
     background-size: cover;
@@ -50,6 +50,7 @@ a {
     position: absolute;
     top: 55%;
     font-size: 50px;
+    margin: 0 0 10px 0;
     font-weight: lighter;
 }
 
